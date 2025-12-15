@@ -14,3 +14,24 @@ Identify suspicious processes running in the background
 Prevent data theft caused by malicious keyloggers
 
 Improve awareness of endpoint security threats
+⚙️ Features
+
+Real-time monitoring of keystroke-related activities
+
+Detection of abnormal system behavior
+
+Process analysis to identify malicious applications
+
+Lightweight and easy-to-use interface
+
+Alerts on detection of suspicious activity
+
+🧠 Working Methodology
+
+Monitor system processes and keyboard events
+
+Analyze behavior patterns of running applications
+
+Compare activity against predefined rules or trained models
+
+Flag and alert the user if a keylogger is detected
